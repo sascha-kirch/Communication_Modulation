@@ -27,3 +27,5 @@ Simulation Model |  <img src="https://github.com/SaKi1309/Communication_Modulati
 Time Domain Signals |  <img src="https://github.com/SaKi1309/Communication_Modulation/blob/main/imgs/bpsk_timedomain.PNG" width="250" /> 
 Frequency Domain Signals |  <img src="https://github.com/SaKi1309/Communication_Modulation/blob/main/imgs/bpsk_fft.PNG" width="250" /> 
 Constelation Diagram |  <img src="https://github.com/SaKi1309/Communication_Modulation/blob/main/imgs/bpsk_constulation.PNG" width="250" /> 
+
+![](https://komarev.com/ghpvc/?username=saschakirchCommunicationModulation&color=yellow) since 16.04.2022
