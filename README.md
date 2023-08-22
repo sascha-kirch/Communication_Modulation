@@ -30,3 +30,14 @@ Constelation Diagram |  <img src="https://github.com/sascha-kirch/Communication_
 
 # Repo Stats
 ![](https://komarev.com/ghpvc/?username=saschakirchCommunicationModulation&color=yellow) since 16.04.2022
+
+## Star History
+
+<a href="https://star-history.com/#sascha-kirch/Communication_Modulation&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sascha-kirch/Communication_Modulation&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sascha-kirch/Communication_Modulation&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sascha-kirch/Communication_Modulation&type=Date" />
+  </picture>
+</a>
+
